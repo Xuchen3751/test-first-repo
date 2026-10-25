@@ -1,0 +1,2 @@
+first file
+[ and this was run by "cat" ]
